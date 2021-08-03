@@ -1,0 +1,2 @@
+rootProject.name = "DoğruYanlısApp"
+include ':app'
